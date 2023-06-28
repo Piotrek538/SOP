@@ -1,8 +1,8 @@
-<span style="color: red;">A group project from school that I participated in</span>
+#A group project from school that I participated in
 
 
 
-<<<<<<< HEAD
+
 # patient-service-gui
 
 ## Project setup
